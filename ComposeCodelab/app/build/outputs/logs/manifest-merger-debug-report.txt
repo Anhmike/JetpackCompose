@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/da0e3d95084f718de82fea814fe004e1/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/732d95b22937a29d35b8c07021b2771e/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.ui:ui-material:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/7abbf6b41e998950931d9b5a79e8f30e/jetified-ui-material-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/f7ea7fa34434ca9219fa726e2fde1195/jetified-ui-foundation-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/a162c015ca045a363404b0133df87baf/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/30b16befbe31c50f9b903e3394d0291a/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/46ed8b79c079ca933bfd24c7fbd428c1/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/d2252d75e99435e5abbd717adab9c7d0/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/0c77e39f52e4b4b1ed492ecfabab6160/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-text:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/a3232f5de5789b0146be13442d8f94a9/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-vector:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/b04a62b7e2d41cdcab2695ae283b041e/jetified-ui-vector-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-core:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/562f1b07c9fb079310f5cb325057203a/jetified-ui-core-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-android-text:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/26aafc3222845367af8e13f3026d470c/jetified-ui-android-text-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.ui:ui-animation-core:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8f90c4341aee138be3547d4202db8021/jetified-ui-animation-core-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/f2c7a80ec22c59f3af88bbcc08648490/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/bca8088c99780d72da53a452019caa0b/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/2a5e37d6928c4bdba2b2fffa48bce41c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/77aa482b699d1f23513a362f59602e76/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/ae39fab9ea740aed138ce80a9da27210/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/9d6b1dc43a47cab36028d3511c1fbfd2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/535c1cf8aaf4031795c8dba07a573f7e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/5b3e7e1273c4c9d9d448d80d3191bfaa/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/5d8d7fed2c21692190516fbb19af54bc/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/056b395a10534453dad442765dda0a3f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8cdbf337e355579f043c3ebfca12c4d5/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8ecbcab7ffa2a7d138c7debed0da993e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/b70b5ce597f16fac09e456a6555e52da/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/585b3d127c685e956d6f231b4cb9a800/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/ac869ed557df531e464ee68971b09675/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/5003d744e6ed342db440bd8625238c5b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/409e73402e92d41de22385d8a1c7e9a1/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/0ebd681559339f5b8838f4ab7303d23f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/c9448ce967bec39edc43633e5adeb909/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/249d2e11b630eb6c8127a37f637eee13/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8fcf0d91a9bb4d7e55f2d3e3e5102738/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/03d826989f03e817184a9b707047e703/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/b1af4c35ae4365857433aad3bb0fd679/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/a20bc41c385b4831c58cacb48802aa1a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose:compose-runtime:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/6ea82bd2a80b0678766d35192ab5adda/jetified-compose-runtime-0.1.0-dev02/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:3:3-36
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:5:3-21:17
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/46ed8b79c079ca933bfd24c7fbd428c1/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:24:5-20
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/46ed8b79c079ca933bfd24c7fbd428c1/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:24:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8ecbcab7ffa2a7d138c7debed0da993e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8ecbcab7ffa2a7d138c7debed0da993e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/585b3d127c685e956d6f231b4cb9a800/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/585b3d127c685e956d6f231b4cb9a800/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8ecbcab7ffa2a7d138c7debed0da993e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:10:5-31
+	android:label
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:8:5-37
+	android:roundIcon
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:9:5-50
+	android:icon
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:7:5-39
+	android:allowBackup
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:6:5-31
+	android:theme
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:11:5-36
+activity#com.example.composedemo.MainActivity
+ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:12:5-20:16
+	android:label
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:14:7-39
+	android:name
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:13:7-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml:18:19-66
+uses-sdk
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/da0e3d95084f718de82fea814fe004e1/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/da0e3d95084f718de82fea814fe004e1/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/732d95b22937a29d35b8c07021b2771e/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/732d95b22937a29d35b8c07021b2771e/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.ui:ui-material:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/7abbf6b41e998950931d9b5a79e8f30e/jetified-ui-material-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-material:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/7abbf6b41e998950931d9b5a79e8f30e/jetified-ui-material-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/f7ea7fa34434ca9219fa726e2fde1195/jetified-ui-foundation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-foundation:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/f7ea7fa34434ca9219fa726e2fde1195/jetified-ui-foundation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/a162c015ca045a363404b0133df87baf/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/a162c015ca045a363404b0133df87baf/jetified-ui-animation-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/30b16befbe31c50f9b903e3394d0291a/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-layout:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/30b16befbe31c50f9b903e3394d0291a/jetified-ui-layout-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/46ed8b79c079ca933bfd24c7fbd428c1/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-tooling:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/46ed8b79c079ca933bfd24c7fbd428c1/jetified-ui-tooling-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/d2252d75e99435e5abbd717adab9c7d0/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-framework:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/d2252d75e99435e5abbd717adab9c7d0/jetified-ui-framework-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/0c77e39f52e4b4b1ed492ecfabab6160/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-platform:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/0c77e39f52e4b4b1ed492ecfabab6160/jetified-ui-platform-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-text:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/a3232f5de5789b0146be13442d8f94a9/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-text:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/a3232f5de5789b0146be13442d8f94a9/jetified-ui-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-vector:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/b04a62b7e2d41cdcab2695ae283b041e/jetified-ui-vector-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-vector:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/b04a62b7e2d41cdcab2695ae283b041e/jetified-ui-vector-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-core:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/562f1b07c9fb079310f5cb325057203a/jetified-ui-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-core:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/562f1b07c9fb079310f5cb325057203a/jetified-ui-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-android-text:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/26aafc3222845367af8e13f3026d470c/jetified-ui-android-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-android-text:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/26aafc3222845367af8e13f3026d470c/jetified-ui-android-text-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation-core:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8f90c4341aee138be3547d4202db8021/jetified-ui-animation-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.ui:ui-animation-core:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8f90c4341aee138be3547d4202db8021/jetified-ui-animation-core-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/f2c7a80ec22c59f3af88bbcc08648490/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/f2c7a80ec22c59f3af88bbcc08648490/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/bca8088c99780d72da53a452019caa0b/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/bca8088c99780d72da53a452019caa0b/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/2a5e37d6928c4bdba2b2fffa48bce41c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/2a5e37d6928c4bdba2b2fffa48bce41c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/77aa482b699d1f23513a362f59602e76/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/77aa482b699d1f23513a362f59602e76/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/ae39fab9ea740aed138ce80a9da27210/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/ae39fab9ea740aed138ce80a9da27210/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/9d6b1dc43a47cab36028d3511c1fbfd2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/9d6b1dc43a47cab36028d3511c1fbfd2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/535c1cf8aaf4031795c8dba07a573f7e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/535c1cf8aaf4031795c8dba07a573f7e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/5b3e7e1273c4c9d9d448d80d3191bfaa/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/5b3e7e1273c4c9d9d448d80d3191bfaa/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/5d8d7fed2c21692190516fbb19af54bc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/5d8d7fed2c21692190516fbb19af54bc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/056b395a10534453dad442765dda0a3f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/056b395a10534453dad442765dda0a3f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8cdbf337e355579f043c3ebfca12c4d5/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8cdbf337e355579f043c3ebfca12c4d5/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8ecbcab7ffa2a7d138c7debed0da993e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8ecbcab7ffa2a7d138c7debed0da993e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/b70b5ce597f16fac09e456a6555e52da/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/b70b5ce597f16fac09e456a6555e52da/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/585b3d127c685e956d6f231b4cb9a800/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/585b3d127c685e956d6f231b4cb9a800/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/ac869ed557df531e464ee68971b09675/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/ac869ed557df531e464ee68971b09675/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/5003d744e6ed342db440bd8625238c5b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/5003d744e6ed342db440bd8625238c5b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/409e73402e92d41de22385d8a1c7e9a1/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/409e73402e92d41de22385d8a1c7e9a1/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/0ebd681559339f5b8838f4ab7303d23f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/0ebd681559339f5b8838f4ab7303d23f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/c9448ce967bec39edc43633e5adeb909/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/c9448ce967bec39edc43633e5adeb909/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/249d2e11b630eb6c8127a37f637eee13/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/249d2e11b630eb6c8127a37f637eee13/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8fcf0d91a9bb4d7e55f2d3e3e5102738/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/8fcf0d91a9bb4d7e55f2d3e3e5102738/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/03d826989f03e817184a9b707047e703/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/03d826989f03e817184a9b707047e703/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/b1af4c35ae4365857433aad3bb0fd679/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/b1af4c35ae4365857433aad3bb0fd679/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/a20bc41c385b4831c58cacb48802aa1a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/a20bc41c385b4831c58cacb48802aa1a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose:compose-runtime:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/6ea82bd2a80b0678766d35192ab5adda/jetified-compose-runtime-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose:compose-runtime:0.1.0-dev02] /Users/lkordic/.gradle/caches/transforms-2/files-2.1/6ea82bd2a80b0678766d35192ab5adda/jetified-compose-runtime-0.1.0-dev02/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lkordic/Downloads/ComposeDemo/app/src/main/AndroidManifest.xml
